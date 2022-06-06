@@ -3,11 +3,11 @@ Reason 12 Akai MIDImix controller remote map and codec to get it working fully w
 
 Includes soft pickup for the sliders (And knobs if you want to enable those). This way the analog controls only act when the value on the slider matches the value of the control it is assigned so it stops the slider "jumping" when you slide it.
 
-§ Installation
+# Installation
 
-Part 1 - Copy the Remote Files
+Copy the Remote Files
 
-The files should be copied into your user's Remote directory:
+The files should be copied into your Remote directory:
 
 OSX: Macintosh HD/Library/Application Support/Propellerhead Software/Remote
    it is also possible to install into /Users/[username]/Library/Application Support/Propellerhead Software/Remote if you want to keep them separate from your main Reason installation.
