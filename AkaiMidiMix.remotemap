@@ -1,0 +1,86 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MIDIMix
+Map Version	1.0.0
+
+//This is a remote map template for the Akai MIDIMix and Reason 12 main mixer
+
+// Developed by Paul Ledbrook (Frequency Control Centre)
+// https://frequencycontrolcentre.bandcamp.com/
+
+// With inspiration from The Sighs of Monsters http://thesighsofmonsters.com/
+
+// NOTES
+// The REC ARM buttons don't work with reason to enable recording on each track so haven't been mapped. They could be mapped and used for another use. Commented out for now until I find another use for them.
+
+
+Scope	Propellerheads	Reason Master Section
+// Define Group	Target	Master	Channels
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Fader 7		Channel 7 Level
+Map	Fader 8		Channel 8 Level
+
+Map	Mute 1		Channel 1 Mute
+Map	Mute 2		Channel 2 Mute
+Map	Mute 3		Channel 3 Mute
+Map	Mute 4		Channel 4 Mute
+Map	Mute 5		Channel 5 Mute
+Map	Mute 6		Channel 6 Mute
+Map	Mute 7		Channel 7 Mute
+Map	Mute 8		Channel 8 Mute
+
+Map	Solo 1		Channel 1 Solo
+Map	Solo 2		Channel 2 Solo
+Map	Solo 3		Channel 3 Solo
+Map	Solo 4		Channel 4 Solo
+Map	Solo 5		Channel 5 Solo
+Map	Solo 6		Channel 6 Solo
+Map	Solo 7		Channel 7 Solo
+Map	Solo 8		Channel 8 Solo
+
+Map	Rec 1	FX1 Mute
+Map	Rec 2	FX2 Mute
+Map	Rec 3	FX3 Mute
+Map	Rec 4	FX4 Mute
+Map	Rec 5	FX5 Mute
+Map	Rec 6	FX6 Mute
+Map	Rec 7	FX7 Mute
+Map	Rec 8	FX8 Mute
+
+Map	Knob 1 Bottom		Channel 1 Pan
+Map	Knob 2 Bottom		Channel 2 Pan
+Map	Knob 3 Bottom		Channel 3 Pan
+Map	Knob 4 Bottom		Channel 4 Pan
+Map	Knob 5 Bottom		Channel 5 Pan
+Map	Knob 6 Bottom		Channel 6 Pan
+Map	Knob 7 Bottom		Channel 7 Pan
+Map	Knob 8 Bottom		Channel 8 Pan
+
+Map	Knob 1 Middle		Channel 1 Width
+Map	Knob 2 Middle		Channel 2 Width
+Map	Knob 3 Middle		Channel 3 Width
+Map	Knob 4 Middle		Channel 4 Width
+Map	Knob 5 Middle		Channel 5 Width
+Map	Knob 6 Middle		Channel 6 Width
+Map	Knob 7 Middle		Channel 7 Width
+Map	Knob 8 Middle		Channel 8 Width
+
+Map	Knob 1 Top		Channel 1 FX8 Send Level
+Map	Knob 2 Top		Channel 2 FX8 Send Level
+Map	Knob 3 Top		Channel 3 FX8 Send Level
+Map	Knob 4 Top		Channel 4 FX8 Send Level
+Map	Knob 5 Top		Channel 5 FX8 Send Level
+Map	Knob 6 Top		Channel 6 FX8 Send Level
+Map	Knob 7 Top		Channel 7 FX8 Send Level
+Map	Knob 8 Top		Channel 8 FX8 Send Level
+
+Map	Bank Left		Previous 8 Remote Base Channel
+Map	Bank Right		Next 8 Remote Base Channel
+
+Map	Fader 9		Master Level
