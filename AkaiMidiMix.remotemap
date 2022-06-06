@@ -44,14 +44,14 @@ Map	Solo 6		Channel 6 Solo
 Map	Solo 7		Channel 7 Solo
 Map	Solo 8		Channel 8 Solo
 
-Map	Rec 1	FX1 Mute
-Map	Rec 2	FX2 Mute
-Map	Rec 3	FX3 Mute
-Map	Rec 4	FX4 Mute
-Map	Rec 5	FX5 Mute
-Map	Rec 6	FX6 Mute
-Map	Rec 7	FX7 Mute
-Map	Rec 8	FX8 Mute
+Map	Rec 1		FX1 Mute
+Map	Rec 2		FX2 Mute
+Map	Rec 3		FX3 Mute
+Map	Rec 4		FX4 Mute
+Map	Rec 5		FX5 Mute
+Map	Rec 6		FX6 Mute
+Map	Rec 7		FX7 Mute
+Map	Rec 8		FX8 Mute
 
 Map	Knob 1 Bottom		Channel 1 Pan
 Map	Knob 2 Bottom		Channel 2 Pan
