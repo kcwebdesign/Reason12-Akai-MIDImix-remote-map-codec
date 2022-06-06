@@ -9,18 +9,29 @@ Copy the Remote Files
 
 The files should be copied into your Remote directory:
 
+
 OSX: Macintosh HD/Library/Application Support/Propellerhead Software/Remote
+
 it is also possible to install into /Users/[username]/Library/Application Support/Propellerhead Software/Remote if you want to keep them separate from your main Reason installation.
+
 Windows XP: C:/Documents and Settings/Application Data/Propellerhead Software/Remote/
+
 Windows Vista: C:/Documents and Settings/Program Data/Propellerhead Software/Remote/
+
 Windows 7: C:/ProgramData/Propellerhead Software/Remote
+
+
 
 Carefully copy all of these files, strictly maintaining this directory structure:
 
 Remote/Codecs/Lua Codecs/Akai/AkaiMidiMix.luacodec
-Remote/Codecs/Lua Codecs/Akai/AkaiMidiMix.lua
-Remote/Codecs/Lua Codecs/Akai/AkaiMidiMix.png
-Remote/Maps/Akai/AkaiMidiMix.remotemap
+
+Remote/Codecs/Lua Codecs/Akai/AkaiMidiMix.lua 
+
+Remote/Codecs/Lua Codecs/Akai/AkaiMidiMix.png 
+
+Remote/Maps/Akai/AkaiMidiMix.remotemap 
+
 
 Now restart Reason so that it sees the new files. Go into Preferences and select your new MIDI controller - you can tell Reason to try and auto-detect the controller, or you can add it manually. Also make sure you click on the master section and lock it to the Akai MIDImix.
 
